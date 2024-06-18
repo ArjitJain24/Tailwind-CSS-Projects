@@ -7,6 +7,8 @@ import Services from "./Services";
 import PopularProducts from "./PopularProducts";
 import Footer from "./Footer";
 import CustomerReviews from "./CustomerReviews";
+import Button from "./Button";
+import ShoeCard from "./ShoeCard";
 
 export {
   Hero,
@@ -18,4 +20,6 @@ export {
   SpecialOffers,
   Subscribe,
   SuperQuality,
+  Button,
+  ShoeCard,
 };
