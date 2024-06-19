@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import CustomerReviews from "./CustomerReviews";
 import Button from "./Button";
 import ShoeCard from "./ShoeCard";
+import PopularProductCard from "./PopularProductCard";
 
 export {
   Hero,
@@ -22,4 +23,5 @@ export {
   SuperQuality,
   Button,
   ShoeCard,
+  PopularProductCard,
 };
