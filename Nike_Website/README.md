@@ -10,5 +10,3 @@ Currently, two official plugins are available:
 ## Nike Frontend Clone
 This project is a frontend clone of the Nike website, created using Tailwind CSS and React JS. The application is designed to replicate the look and feel of the original Nike site, featuring various sections such as popular products, special offers, and customer reviews.
 
-
-This project is an image gallery that fetches images from an external API and displays them in a user-friendly gallery format. It shows the number of likes, downloads and views also.
